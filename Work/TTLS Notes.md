@@ -105,4 +105,29 @@
 # todos
 - [ ] need to come up with a contribution to the existing one pager for the team
 - [ ] choose between the following to write a one pager for: 业务-评价、平台-审核、稳定性(translation: Business - Evaluation, Platform - Moderation, Stability)
-- [ ] 
+- [ ] goal setting for probation
+
+food for thought:
+## 可以尝试回答几个启发性问题
+
+## can try answering a few thought-provoking questions
+
+> 持续补充
+> 
+> Continuous replenishment
+
+- 业务：TTLS 季度业务目标是什么
+    
+- Business: What are the quarterly business objectives of TTLS?
+    
+- 业务：TTLS GNE 当前的重点项目有哪些，为什么是它们
+    
+- Business: What are the current key projects of TTLS GNE, and why are they the key ones?
+    
+- 组织：串讲阶段主攻的方向，协作最紧密的人有哪些
+    
+- Organization: What are the main directions during the summary phase, and who are the people with the closest collaboration?
+    
+- 流程：SDLC，火车发布流程是怎样的？
+    
+- Process: SDLC, what is the train release process?
