@@ -1,14 +1,34 @@
 {
   "main": {
-    "id": "46acd604f4100d7d",
+    "id": "49f2989d72607c6f",
     "type": "split",
     "children": [
       {
-        "id": "980538baca79065b",
+        "id": "3f0e6b3a3ba5cc3f",
         "type": "tabs",
         "children": [
           {
-            "id": "fed08a971b067bd2",
+            "id": "b766c8a243966c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/TTLS Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TTLS Notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e1fb609038b6b899",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77b7f518f28137dd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,65 +36,22 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "9685949cac0ae5d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "4d10c7a12c4f5c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reminder Sync Inbox.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reminder Sync Inbox"
-            }
-          },
-          {
-            "id": "8dad13b263223120",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Password.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Password"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "15acd728a0a2532d",
+    "id": "a065b5428cc74433",
     "type": "split",
     "children": [
       {
-        "id": "45fd7606e89abf42",
+        "id": "181cccf94d611d97",
         "type": "tabs",
         "children": [
           {
-            "id": "56fec2eaf28f2e02",
+            "id": "c1ec4feb1db93c41",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,7 +64,7 @@
             }
           },
           {
-            "id": "d06568465f1a43b4",
+            "id": "a7cecee1fea370c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -104,7 +81,7 @@
             }
           },
           {
-            "id": "2a8763da4183657f",
+            "id": "62049a478da518b7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "66c378db547a56f5",
+    "id": "f35a044790e26308",
     "type": "split",
     "children": [
       {
-        "id": "aa45ca0ac0de624e",
+        "id": "8cfc68e34ca805cb",
         "type": "tabs",
         "children": [
           {
-            "id": "81028d509859957b",
+            "id": "d9704c891ab832d0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pitch.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for pitch"
+              "title": "Backlinks for Tasks"
             }
           },
           {
-            "id": "2aac8a5a7afd15d7",
+            "id": "c40aa4b841ac20a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pitch.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from pitch"
+              "title": "Outgoing links from Tasks"
             }
           },
           {
-            "id": "667a7faa69921d5a",
+            "id": "0145d0c2c5463a65",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,7 +153,7 @@
             }
           },
           {
-            "id": "466f3298a79f42f7",
+            "id": "3620b84081aed2ea",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -190,18 +167,18 @@
             }
           },
           {
-            "id": "59901cb0a0a797ee",
+            "id": "8cdffb4219a9f960",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "pitch.md",
+                "file": "Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pitch"
+              "title": "Outline of Tasks"
             }
           }
         ]
@@ -219,21 +196,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56fec2eaf28f2e02",
+  "active": "b766c8a243966c4d",
   "lastOpenFiles": [
-    "Reminder Sync Inbox.md",
     "Password.md",
-    "pitch.md",
     "Tasks.md",
-    "Work/TTLS Notes.md",
+    "Reminder Sync Inbox.md",
+    "pitch.md",
     "Welcome.md",
-    "Work",
-    "Untitled 1.md",
-    "Work/Screenshot 2025-12-29 at 5.25.15 PM.png",
+    "Work/TTLS Notes.md",
     "Work/Screenshot 2025-12-31 at 3.31.37 PM.png",
-    "Work/Screenshot 2025-12-31 at 3.31.27 PM.png"
+    "Work/Screenshot 2025-12-31 at 3.31.27 PM.png",
+    "Work/Screenshot 2025-12-29 at 5.25.15 PM.png",
+    "Work",
+    "obsidian-vault/pitch.md",
+    "obsidian-vault/Work/TTLS Notes.md",
+    "obsidian-vault/Work/Screenshot 2025-12-31 at 3.31.37 PM.png",
+    "obsidian-vault/Work/Screenshot 2025-12-31 at 3.31.27 PM.png",
+    "obsidian-vault/Work/Screenshot 2025-12-29 at 5.25.15 PM.png",
+    "obsidian-vault/Work",
+    "obsidian-vault/Tasks.md",
+    "obsidian-vault/Reminder Sync Inbox.md",
+    "obsidian-vault/Password.md",
+    "obsidian-vault"
   ]
 }

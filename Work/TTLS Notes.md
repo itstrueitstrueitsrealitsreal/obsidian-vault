@@ -101,3 +101,7 @@
 
 
 ![[Screenshot 2025-12-31 at 3.31.27 PM.png]]![[Screenshot 2025-12-31 at 3.31.37 PM.png]]
+
+# todos
+- [ ] need to come up with a contribution to the existing one pager for the team
+- [ ] 
