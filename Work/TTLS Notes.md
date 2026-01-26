@@ -106,6 +106,9 @@
 - [ ] need to come up with a contribution to the existing one pager for the team
 - [ ] choose between the following to write a one pager for: 业务-评价、平台-审核、稳定性(translation: Business - Evaluation, Platform - Moderation, Stability)
 - [ ] goal setting for probation
+- [ ] daily reports for the first two weeks
+- [ ] shift to weekly reports until the end of the probation period
+- [ ] Daily report filling time: Complete it before the end of work every day/Friday/bi-weekly Friday, and write it in reverse chronological order according to the date
 
 food for thought:
 ## 可以尝试回答几个启发性问题
