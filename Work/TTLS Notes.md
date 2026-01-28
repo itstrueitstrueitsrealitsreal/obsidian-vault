@@ -135,4 +135,6 @@ food for thought:
     
 - Process: SDLC, what is the train release process?
 
-治理
+治理基建
+- dossier
+- governance gateway
