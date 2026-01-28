@@ -136,9 +136,9 @@ food for thought:
 - Process: SDLC, what is the train release process?
 
 治理基建
-- dossier
-- governance gateway
-- GNE engine
-- sentry
-- 
+- dossier - 卷宗
+- governance gateway - 网关
+- GNE engine - 流程
+- sentry - 哨兵
+- feature
 哨兵&卷宗&特征&流程&网关
