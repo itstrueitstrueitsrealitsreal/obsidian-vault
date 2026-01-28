@@ -138,7 +138,11 @@ food for thought:
 治理基建
 - dossier - 卷宗
 - governance gateway - 网关
+	- traffic labeling
+	- context management
 - GNE engine - 流程
+	- 
 - sentry - 哨兵
+	- 风险感知 & 研判
 - feature platform - 特征平台
 哨兵&卷宗&特征&流程&网关
