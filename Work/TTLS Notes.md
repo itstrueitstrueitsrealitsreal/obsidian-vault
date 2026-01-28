@@ -140,5 +140,5 @@ food for thought:
 - governance gateway - 网关
 - GNE engine - 流程
 - sentry - 哨兵
-- feature
+- feature - 特征
 哨兵&卷宗&特征&流程&网关
