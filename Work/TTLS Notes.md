@@ -158,3 +158,5 @@ conversion rate - 转化率
 订单 - measure using conversion rate
 
 conversion rate * clicks * views = orders
+
+抽成 - commission
