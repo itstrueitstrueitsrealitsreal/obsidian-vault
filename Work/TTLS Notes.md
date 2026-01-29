@@ -146,3 +146,15 @@ food for thought:
 	- 风险感知 & 研判
 - feature platform - 特征平台
 哨兵&卷宗&特征&流程&网关
+## metrics to pay attention to:
+
+客单价 - average revenue per user
+conversion rate
+![What is ARPU (average revenue per user)? | AppsFlyer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7iYo8Fgul-x4OXqdDSYUQhLowBbvOAww11nODQ651rrTr2o_QTAdwBXDAW77YJ1mkCQY0g&s=10)
+orders x arpu = gmv
+
+conversion rate - 转化率
+
+订单 - measure using conversion rate
+
+conversion rate * clicks * views = orders
