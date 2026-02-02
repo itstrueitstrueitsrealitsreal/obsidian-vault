@@ -162,7 +162,7 @@ conversion rate * clicks * views = orders
 抽成 - commission
 
 need to revise
-- mysql - binlog
+- mysql - binlog (used to do backup and data syncing between regions)
 - redis - cluster 
 - kafka 
 - mq - rocketmq
