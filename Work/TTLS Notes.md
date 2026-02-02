@@ -160,3 +160,9 @@ conversion rate - 转化率
 conversion rate * clicks * views = orders
 
 抽成 - commission
+
+need to revise
+- mysql - binlog
+- redis - cluster 
+- kafka 
+- mq - rocketmq
