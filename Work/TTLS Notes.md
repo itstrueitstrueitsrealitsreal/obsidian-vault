@@ -166,3 +166,13 @@ need to revise
 - redis - cluster 
 - kafka 
 - mq - rocketmq
+
+
+relationship between channel and tables:
+
+channel - kafka
+tables - mysql
+binlog - used to sync the mysql tables between regions
+
+
+pyramid principles 
