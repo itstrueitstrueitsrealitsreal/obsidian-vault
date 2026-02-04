@@ -176,3 +176,7 @@ binlog - used to sync the mysql tables between regions
 
 
 pyramid principles 
+
+Hive - Data Warehouse
+Pearl - Platform for recalling content
+
