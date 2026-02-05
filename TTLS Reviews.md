@@ -18,3 +18,10 @@ High coupling across different domains and business lines, and the POC of a requ
 | **Machine Review** | Indirect model delivery efficiency gains            | Medium | Medium   |
 | **Gateway**        | Indirect RD delivery efficiency                     | High   | Lowest   |
 
+OKR for Q1 2026
+
+| Objective                                                                                       | Key Result            |
+| ----------------------------------------------------------------------------------------------- | --------------------- |
+| Implement governance of Reviews, POI, and Search, focusing on the 15 countries                  | - Evaluate launch of  |
+| Complete the deployment of governance infrastructure in 三国，expand from MVP to stable and usable |                       |
+| AI & Business stability                                                                         |                       |
