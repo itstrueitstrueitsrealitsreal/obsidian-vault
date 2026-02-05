@@ -12,8 +12,9 @@ High coupling across different domains and business lines, and the POC of a requ
 	- Machine moderation
 	- Gateway 
 
-| Component          | Benefits                                            | Risk   | Priority | e                   |
-| ------------------ | --------------------------------------------------- | ------ | -------- | ------------------- |
-| **Human Review**   | Direct boost to business demand delivery efficiency | Low    | Highest  | Core revenue impact |
-| **Machine Review** | Indirect model delivery efficiency gains            | Medium | Medium   | Secondary leverage  |
-| **Gateway**        | Indirect RD delivery efficiency                     | High   | Lowest   | Defer/non-mandatory |
+| Component          | Benefits                                            | Risk   | Priority |
+| ------------------ | --------------------------------------------------- | ------ | -------- |
+| **Human Review**   | Direct boost to business demand delivery efficiency | Low    | Highest  |
+| **Machine Review** | Indirect model delivery efficiency gains            | Medium | Medium   |
+| **Gateway**        | Indirect RD delivery efficiency                     | High   | Lowest   |
+
