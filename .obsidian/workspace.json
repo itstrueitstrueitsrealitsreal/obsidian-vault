@@ -6,7 +6,6 @@
       {
         "id": "3f0e6b3a3ba5cc3f",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "b766c8a243966c4d",
@@ -52,23 +51,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "e1fb609038b6b899",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "77b7f518f28137dd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
