@@ -20,8 +20,8 @@ High coupling across different domains and business lines, and the POC of a requ
 
 OKR for Q1 2026
 
-| Objective                                                                                       | Key Result            |
-| ----------------------------------------------------------------------------------------------- | --------------------- |
-| Implement governance of Reviews, POI, and Search, focusing on the 15 countries                  | - Evaluate launch of  |
-| Complete the deployment of governance infrastructure in 三国，expand from MVP to stable and usable |                       |
-| AI & Business stability                                                                         |                       |
+| Objective                                                                                       | Key Result                                                                                                          |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Implement governance of Reviews, POI, and Search, focusing on the 15 countries                  | - Evaluate launch of Review governance in 15 countries<br>- Evaluate launch of POI governance in 15 countries<br>-  |
+| Complete the deployment of governance infrastructure in 三国，expand from MVP to stable and usable |                                                                                                                     |
+| AI & Business stability                                                                         |                                                                                                                     |
