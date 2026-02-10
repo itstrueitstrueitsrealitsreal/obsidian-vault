@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "TTLS Reviews"
             }
-          },
-          {
-            "id": "a11b955d694a7042",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a11b955d694a7042",
+  "active": "eee3013dc58592db",
   "lastOpenFiles": [
     "TTLS Reviews.md",
     "Work/TTLS Notes.md",
