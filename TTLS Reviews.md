@@ -21,3 +21,10 @@ OKR for Q1 2026
 
 
 compensation mechanism for evaluation and POI,
+
+
+
+
+mq notes
+amqp
+
