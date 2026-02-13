@@ -28,3 +28,7 @@ compensation mechanism for evaluation and POI,
 mq notes
 amqp
 
+booklist
+DDIA
+pyramid principles
+
