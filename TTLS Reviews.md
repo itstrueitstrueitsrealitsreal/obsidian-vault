@@ -31,4 +31,7 @@ amqp
 booklist
 DDIA
 pyramid principles
+the making of a manager
+clean architecture
+spec driven development
 
